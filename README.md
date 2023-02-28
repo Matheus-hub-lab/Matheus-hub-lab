@@ -1,7 +1,7 @@
 ### Hi there  Meu nome é Matheus Viacava Sigoli
 
-- 🔭 I’m currently wor no meu TCC, sobre Contratos inteligentes em Blockchain.
-- 🌱 I’m currently learning  Solidity
+- 🔭  Formado em Ciência da computação
+- 🌱 Atualmente estou fazendo uma Pós-Gradua em Engenharia de Software
 - 👯 I’m looking to  um emprego para ganhar experiencia e conhecimentos
 - 📫 Email: matheus.vsigoli@gmail.com  ou  matheusvsigoli@terra.com.br
 
