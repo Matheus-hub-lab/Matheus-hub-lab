@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Olá! Eu sou Matheus Viacava Sigoli
+# Eu sou Matheus Viacava Sigoli
 
-### Desenvolvedor de Software | Cientista da Computação
+### Cientista da Computação
 
 </div>
 
@@ -24,15 +24,6 @@
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-hub-lab&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-hub-lab&layout=compact&langs_count=8&theme=dracula"/>
-</div>
-
----
-
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
@@ -47,21 +38,9 @@
 
 ---
 
-## 📈 Atividade
-
 <div align="center">
   
-![snake gif](https://github.com/matheus-hub-lab/matheus-hub-lab/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💡 "A melhor maneira de prever o futuro é inventá-lo" - Alan Kay
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-link-linkedin)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](seu-link-portfolio)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusvsigoli/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://github.com/Matheus-hub-lab)
 
 </div>
