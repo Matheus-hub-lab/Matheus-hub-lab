@@ -12,7 +12,8 @@
 
 🎓 **Formação Acadêmica:**
 - Bacharel em Ciência da Computação
-- Pós-Graduação em Engenharia de Software (em andamento)
+- Especializado em Engenharia de Software
+- Estudando Sistemas Embarcados
 
 💼 **Objetivo Profissional:**
 - Buscando oportunidades para aplicar conhecimentos e crescer profissionalmente
